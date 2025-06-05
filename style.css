@@ -79,7 +79,7 @@ p {
     justify-content: space-evenly;
 }
 
-.plan_1_semanal, .plan_2_semanal, .plan_3_semanal{
+.plan_basico, .plan_intermedio, .plan_pro {
     width: 400px;
     height: 700px;
     border-radius: 20px;
